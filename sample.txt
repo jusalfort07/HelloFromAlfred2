@@ -1,3 +1,0 @@
-I changed the text in sample.txt
-I made more changes to this file.
-
