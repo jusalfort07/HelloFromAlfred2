@@ -8,5 +8,7 @@ public class Main {
 
         String text2 = "Hello Alfred, my name is A. Michael Sierra.";
         System.out.println(text2);
+
+        System.out.println("Camila and Maxi, we look forward to seeing your master contribution to Alfred's project!");
     }
 }
